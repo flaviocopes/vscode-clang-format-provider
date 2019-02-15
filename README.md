@@ -8,6 +8,8 @@
 This extension allows clang-format (version 3.8 or higher) to be used to format C/C++, Javascript etc.
 source files directly from within Visual Studio Code.
 
+> If you don't have it installed already, `clang-format` can be installed using Homebrew: run `brew install clang-format`.
+
 Files can be formatted on-demand by right clicking in the document and
 selecting "Format Document", or by using the associated keyboard shortcut
 (usually Ctrl+⇧+F on Windows, Ctrl+⇧+I on Linux, and ⇧+⌥+F on macOS).
